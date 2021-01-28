@@ -1,0 +1,1 @@
+IMPORTANT Le mot de passe root MySQL est 307d8ff2b25ff7a
